@@ -1,0 +1,89 @@
+/* 
+ * Child theme color scheme
+ */
+
+ #military-law-section-2 .et_pb_text_2 p:before {
+	content: url(/wp-content/uploads/2017/01/military-law-img-30px.png);
+}
+
+#military-law-section-2 .et_pb_text  ul li { 
+	background-image: url(/wp-content/uploads/2017/01/bullet-round-bordered-arrow.png);
+}
+
+/* MENU */
+
+#et-info-phone:after,
+#et-info-phone:before, 
+#et-info-email:before ,
+#et-info-email:after,
+.et_pb_accordion .et_pb_toggle_title::before,
+.fontcolor,
+#contactus-section-2 .et_pb_team_member h4,
+#about-sidebar li a:hover,
+#sidebar ul li:before,
+.et_pb_post h2.entry-title:hover,
+.faq-toogle.et_pb_toggle_open h5.et_pb_toggle_title,
+.faq-toogle   .et_pb_toggle_title:before {
+	color: #524c5b !important;
+}
+
+#caldera-form-module-01 .btn  {
+	color: #fff;
+}
+ 
+#home-section-3 .et_pb_blurb:hover ,
+#caldera-form-module-02 .btn,
+ #about-sidebar li a,
+.textwidget .footer-btn,
+.pagination a:hover,
+.search .search-box  input[type=submit] {
+	background-color: #000000;
+} 
+
+#caldera-form-module-01 .btn:hover,
+#caldera-form-module-02 .btn:hover { 
+	background-color: #2a2b41;
+}
+
+#caldera-form-module-02 .form-control  {
+	background-color: #f4f7f3 !important;
+}
+
+.textwidget .footer-btn:hover  {
+	background-color: #3f3a46;	
+}
+
+.interior-header  {
+	background-color: #0e1c2c;
+}
+ 
+#caldera-form-module-01 .btn  { 
+	background-color:#6f6779; 
+}
+
+#caldera-form-module-01 .btn,
+#caldera-form-module-01 .form-control ,
+#caldera-form-module-02 .btn  {  
+	border-color:#2a2b41 !important;
+}
+ 
+#caldera-form-module-02 .form-control  { 
+	border-color: #e0e1df  !important;
+}
+  
+.textwidget .footer-btn  {
+	border-color:  #3f3a46;
+} 
+
+#about-sidebar li a,
+.interior-header .container,
+.search .search-box  input[type=submit],
+.single blockquote,
+.pagination a {
+ 	border-color: #524c5b;
+ }
+
+  
+
+
+  
